@@ -9,7 +9,7 @@
 
 - I’m currently learning:
   <br/><br/>
-  <a href="your-python-URL">
+  <a>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   </a>
 
