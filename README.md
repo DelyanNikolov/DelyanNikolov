@@ -14,9 +14,10 @@
 - I’m currently learning:
   <br/><br/>
   <a>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt = "Pandas badge"/>
+    <img src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=%23FCC624" alt = "Linux badge"/>
   </a>
-
 
 <!---
 DelyanNikolov/DelyanNikolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
