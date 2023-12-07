@@ -5,10 +5,10 @@
   I am an engeneer always trying to improve myself.
 </a>
 
-- I’like hiking :sunrise_over_mountains:
-- New to and very exited about mountain bikes :mountain_bicyclist:
-- Relaxing with a good book. Mostly fantasy and sci-fi :books:
-- Enjoyng hevy metal concerts :guitar:, opera :musical_score:, teather :performing_arts:
+- I’like hiking 🌄:
+- New to and very exited about mountain bikes 🚵:
+- Relaxing with a good book. Mostly fantasy and sci-fi 📚:
+- Enjoyng hevy metal concerts 🎸, opera 🎼:, teather 🎭:
 
 
 - I’m currently learning:
